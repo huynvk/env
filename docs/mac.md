@@ -75,9 +75,3 @@ Change vim color scheme:
 > colo koehler  
 
 See more config for Zsh and Oh my Zsh at [https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961]
-
-## Node packages
-### Node js
-> brew install node
-
-### Eslint
