@@ -53,7 +53,7 @@ Anything else that should be noted down?
 Arrange level of complexity by fibonacy number. Complexity level was marked by color in Trello card. Level of complexity is agreed by the team in the sprint planning meeting
 
 1: Green - Simple task. E.g. modify some text  
-2: Yellow - Normal task, could be done within 2-4 hours  
-3: Orange - Moderate, could be done within 1 - 2 day. Recommend to split it smaller if possible  
-5: Purple - Big task, highly recommended to split it smaller 
+2: Yellow - Normal task, could be done within 1 - 2 hours  
+3: Orange - Moderate, could be done within 2 - 4 hours  
+5: Purple - Big task, highly recommended to split it smaller  
 8: Red - Huge task, not ready for sprint, need to be devided to smaller 
